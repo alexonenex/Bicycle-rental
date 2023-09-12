@@ -1,0 +1,30 @@
+
+E
+java:S3740@"/Provide the parametrized type for this generic.(À¥¡Ğ
+I
+java:S1121&".Extract the assignment out of this expression.(•ëÛ¢ûÿÿÿÿ
+D
+java:S1121)".Extract the assignment out of this expression.(¸Ñ½
+D
+java:S1121,".Extract the assignment out of this expression.(áâî
+D
+java:S1121/".Extract the assignment out of this expression.(Ú‘ê³
+I
+java:S11213".Extract the assignment out of this expression.(ˆĞøÿÿÿÿ
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çóùøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ØÆ†Á
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ì‰¸„
+P
+java:S1854&"5Remove this useless assignment to local variable "r".(•ëÛ¢ûÿÿÿÿ
+K
+java:S1854)"5Remove this useless assignment to local variable "r".(¸Ñ½
+K
+java:S1854,"5Remove this useless assignment to local variable "r".(áâî
+K
+java:S1854/"5Remove this useless assignment to local variable "r".(Ú‘ê³
+P
+java:S18543"5Remove this useless assignment to local variable "r".(ˆĞøÿÿÿÿ
+<
+java:S1481$"&Remove this unused "r" local variable.(ß‚Ã
+V	java:S1256"<This block of commented-out lines of code should be removed.(ÒäÇùÿÿÿÿ
+h	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çóùøÿÿÿÿ

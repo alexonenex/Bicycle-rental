@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£Ã˜§
+Y
+java:S1155+">Use isEmpty() to check whether the collection is empty or not.(§¥³Þüÿÿÿÿ
+]
+java:S1128"@Remove this unused import 'com.bicycle.entity.OrderDepositList'.( ðˆé8–¦ûš‰1
+e
+java:S1128"CRemove this unused import 'com.bicycle.service.ReservationService'.(ŠŒß©ùÿÿÿÿ8—¦ûš‰1
